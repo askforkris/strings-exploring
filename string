@@ -1,0 +1,5 @@
+My_variable = ("<html><head><title>lookatthis</titile>/<head<body><h1>helloworld</H1></BODY></HTML>")
+
+My_html_file= ("/projects/UNTITLED1 LEARNING PYTHON/ My_Html_file.html","w")
+
+My_html_file.write(My_variable)
